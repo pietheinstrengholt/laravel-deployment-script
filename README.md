@@ -22,7 +22,7 @@ Add the following to the /etc/httpd/conf/httpd.conf when using letsencrypt:
 
 ```
 <VirtualHost *:443>
-    ServerName www.meet-alex.org
+    ServerName www.example.org
     DocumentRoot "/var/www/html/public"
     SSLEngine on
     SSLCertificateFile /etc/letsencrypt/live/example.org/fullchain.pem
