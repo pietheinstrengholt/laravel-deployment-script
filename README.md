@@ -1,4 +1,5 @@
 # Laravel 5 deployment scripts
+> Piethein Strengholt (2017)
 
 ### deploy.sh
 
